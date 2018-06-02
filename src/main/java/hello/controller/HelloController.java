@@ -43,7 +43,7 @@ public class HelloController {
      *
      * @return
      */
-    @RequestMapping("/")
+    @RequestMapping("/datetime")
     public String index() {
         TimeClient myTimeClient = new SimpleTimeClient();
         LocalDateTime localDateTime = LocalDateTime.now();
