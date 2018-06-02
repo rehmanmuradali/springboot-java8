@@ -1,0 +1,9 @@
+print Hello
+print this
+print is
+temp
+file
+my
+name
+is
+print Rehman
