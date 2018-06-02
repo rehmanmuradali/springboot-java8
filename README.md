@@ -91,6 +91,37 @@ GET /datetime
 ```
 
 
+## Helpful Links
+Spring:
+
+https://spring.io/guides
+
+Java 8: 
+
+http://www.baeldung.com/java-8-functional-interfaces
+
+http://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/
+
+https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
+
+http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+
+http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html
+
+https://docs.oracle.com/javase/tutorial/essential/io/pathOps.html
+
+https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
+
+http://www.baeldung.com/foreach-java
+
+http://winterbe.com/posts/2015/03/25/java8-examples-string-number-math-files/
+
+http://www.baeldung.com/java-8-comparator-comparing
+
+http://www.baeldung.com/java-8-sort-lambda
+
+https://dzone.com/articles/java-8-friday-goodies-new-new
+
 
 ## Built With
 
