@@ -359,8 +359,8 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Application" />
       <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.Application" />
     </list>
     <recent_temporary>
       <list>
