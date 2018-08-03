@@ -274,8 +274,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="gradle.&#9;FILE&#9;file://C:/Workspace/backend/new-project/gs-spring-boot/initial/gradle/wrapper/gradle-wrapper.properties&#10;topiccon&#9;FILE&#9;file://C:/Workspace/backend/new-project/gs-spring-boot/initial/src/main/java/hello/controller/TopicController.java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../coquonut/client-backend" />
+    <property name="SearchEverywhereHistoryKey" value="pom.&#9;FILE&#9;file://C:/Workspace/backend/SpringBoot2/pom.xml&#10;gradle.&#9;FILE&#9;file://C:/Workspace/backend/new-project/gs-spring-boot/initial/gradle/wrapper/gradle-wrapper.properties&#10;topiccon&#9;FILE&#9;file://C:/Workspace/backend/new-project/gs-spring-boot/initial/src/main/java/hello/controller/TopicController.java" />
+    <property name="last_opened_file_path" value="C:/coquonut/client-backend" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -301,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.Application" />
       <module name="gs-spring-boot" />
@@ -332,6 +332,10 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gs-spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.Application" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -354,6 +358,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Application" />
